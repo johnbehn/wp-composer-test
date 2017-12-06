@@ -184,6 +184,8 @@ define( 'WP_CONTENT_URL', WP_HOME . '/wp-content' );
  */
 $table_prefix = getenv( 'DB_PREFIX' ) !== false ? getenv( 'DB_PREFIX' ) : 'wp_';
 
+/* Test Commit Line */
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
